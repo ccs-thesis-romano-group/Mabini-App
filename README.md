@@ -23,7 +23,7 @@ The Smart Digital Event Management System streamlines event planning and engagem
 To set up and run the project, follow these steps:
 
 1. **Clone the Repository:**  
-   git clone https://github.com/Kinev10/ccs-thesis-template.git
+   git clone https://github.com/Kinev10/ccs-thesis-template.git](https://github.com/Secretive-Plotterrr/Mabini-App
 
 2. **Navigate to the Project Directory:**  
    cd ccs-thesis-template
