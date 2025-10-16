@@ -1,6 +1,6 @@
 # Smart Event & Activity Management System for Mabini Colleges, Inc.
 
-A Smart Digital Event Management System streamlines event planning and engagement, enhancing coordination and communication for local institutions such as Mabini Colleges, as well as educational communities worldwide.
+A Smart Digital Event Management System is designed exclusively for Mabini Colleges to streamline event planning and engagement, enhancing coordination and communication across all departments and organizations within the institution.
 
 ## Features
 
