@@ -26,7 +26,7 @@ To set up and run the project, follow these steps:
    https://github.com/Secretive-Plotterrr/Mabini-App
 
 2. **Navigate to the Project Directory:**  
-   cd ccs-thesis-template
+   cd mabini
 
 3. **Install Node.js:**  
    Download and install Node.js (version 16 or higher) to run the web application.  
