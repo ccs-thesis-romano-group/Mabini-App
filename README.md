@@ -48,6 +48,6 @@ To set up and run the project, follow these steps:
 
 ## Screenshots
 
-![Project Screenshot](./screenshots/552818166_2599397957079692_5270847883764247902_n.jpg)
+To be filled later on
 
 
