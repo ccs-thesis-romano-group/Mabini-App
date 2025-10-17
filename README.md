@@ -48,5 +48,5 @@ To set up and run the project, follow these steps:
 
 ## Screenshot
 
-<image-card alt="Interactive Calendar" src="screenshots/calendar-view.jpg" ></image-card>
-*Dynamic calendar view for browsing events.*
+![Figure 1: Dashboard](screenshots/MabiniApp.jpg)
+
