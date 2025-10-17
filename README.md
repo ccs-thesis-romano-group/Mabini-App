@@ -46,8 +46,7 @@ To set up and run the project, follow these steps:
    To edit this README.md or other documentation, install Visual Studio Code or Typora.
 
 
-## Screenshots
+## Screenshot
 
-To be filled later on
-
-
+<image-card alt="Interactive Calendar" src="screenshots/calendar-view.jpg" ></image-card>
+*Dynamic calendar view for browsing events.*
